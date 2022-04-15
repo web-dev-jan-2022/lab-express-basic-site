@@ -1,0 +1,27 @@
+body {
+  background: #4251d9;
+}
+
+h1 {
+  color: rgb(250, 255, 252);
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  padding: 50px;
+}
+
+.img-container {
+  text-align: center;
+  display: block;
+}
+
+footer {
+  background-color: #343a3f;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  position: center;
+  text-align: center;
+  font-size: 0.7em;
+  padding: 4px;
+}
